@@ -12,4 +12,5 @@ Enter 1+1 for a surprise 🎵
 Enter 666+666 to summon dark forces 🔥
 
 About the Creator
+
 This project was developed by a student from Federal institute of São Paulo, currently learning programming and exploring creative ways to make learning enjoyable. Pymath is a mix of coding practice and fun experimentation. Feedback and contributions are welcome!
