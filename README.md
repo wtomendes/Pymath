@@ -15,21 +15,9 @@ Before running this project, you need to install the required dependencies. You 
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/your-repository.git
-    cd your-repository
-    ```
+    git clone https://github.com/wtomendes/Pymath.git
 
-2. Create and activate a virtual environment (optional but recommended):
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
     ```
-
-3. Install the required libraries:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
 Now you can run the project!
 
 * About the Creator
