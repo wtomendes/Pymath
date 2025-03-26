@@ -10,7 +10,11 @@ Pymath is not your average calculator! This Python-based calculator, built with 
 - Background music and sound effects
 - Secret Easter eggs:
     - Enter `1+1` for a surprise 🎵
-    - Enter `666+666` to summon dark forces 🔥
+    - Enter `666+666` to summon dark forces
+ 
+      
+        ![Pymath Screenshot](images/show.png)
+
 
 * Requirements
 Before running this project, you need to install the required dependencies. You can do this using `pip`:
