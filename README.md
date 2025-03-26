@@ -1,16 +1,37 @@
-Pymath 🎲🖩
-Pymath is not your average calculator! This Python-based calculator, built with Tkinter, comes with interactive features, sound effects, and some hidden surprises. 💀🎶
+* Pymath 🎲
 
-Features
-✅ Standard arithmetic operations
-✅ Interactive UI with sound and animations
-✅ Background music and sound effects
-✅ Secret Easter eggs:
+Pymath is not your average calculator! This Python-based calculator, built with Tkinter, comes with interactive features, sound effects, and some hidden surprises. 💀🎶 
+* Features 
+- Standard arithmetic operations
+- Interactive UI with sound and animations
+- Background music and sound effects
+- Secret Easter eggs:
+  - Enter `1+1` for a surprise 🎵
+  - Enter `666+666` to summon dark forces 🔥
 
-Enter 1+1 for a surprise 🎵
+* Requirements
 
-Enter 666+666 to summon dark forces 🔥
+Before running this project, you need to install the required dependencies. You can do this using `pip`:
 
-About the Creator
+1. Clone this repository:
+    ```bash
+    git clone https://github.com/your-username/your-repository.git
+    cd your-repository
+    ```
 
-This project was developed by a student from Federal institute of São Paulo, currently learning programming and exploring creative ways to make learning enjoyable. Pymath is a mix of coding practice and fun experimentation. Feedback and contributions are welcome!
+2. Create and activate a virtual environment (optional but recommended):
+    ```bash
+    python -m venv venv
+    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+    ```
+
+3. Install the required libraries:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+Now you can run the project!
+
+* About the Creator
+
+This project was developed by a student from the Federal Institute of São Paulo, currently learning programming and exploring creative ways to make learning enjoyable. Pymath is a mix of coding practice and fun experimentation. Feedback and contributions are welcome!
