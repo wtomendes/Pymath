@@ -19,10 +19,10 @@ Before running this project, you need to install the required dependencies. You 
 
     ```
  2. Install the required libraries:
- ```bash
+   ```bash
     pip install -r requirements.txt
 
-````   
+   ```  
 Now you can run the project!
 
 * About the Creator
