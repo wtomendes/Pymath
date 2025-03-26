@@ -12,7 +12,6 @@ _icons = []
 should_play_background = True
 should_flash = True
 
-
 current_dir = os.path.dirname(os.path.abspath(__file__))
 sounds_dir = os.path.join(current_dir, "sounds")
 
@@ -166,7 +165,7 @@ root.configure(bg="#49769e")
 root.resizable(False, False)
 
 try:
-    img = Image.open(os.path.join(current_dir, "pyculator.png"))
+    img = Image.open(os.path.join(current_dir, "images", "pyculator.png"))
     sizes = [(32,32), (48,48), (64,64), (128,128), (256,256), (512,512)]
     for size in sizes:
         resized = img.resize(size, Image.Resampling.LANCZOS)
