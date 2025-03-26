@@ -12,7 +12,7 @@ _icons = []
 should_play_background = True
 should_flash = True
 
-# Usando caminhos relativos
+
 current_dir = os.path.dirname(os.path.abspath(__file__))
 sounds_dir = os.path.join(current_dir, "sounds")
 
