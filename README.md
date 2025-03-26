@@ -1,10 +1,11 @@
 * Pymath 🎲
-  <div align="center">
-         ![Pymath Screenshot](images/pyculator.png)
-  </div>
 
+<div align="center">
+    ![Pymath Screenshot](images/pyculator.png)
+</div>
 
 Pymath is not your average calculator! This Python-based calculator, built with Tkinter, comes with interactive features, sound effects, and some hidden surprises. 💀🎶
+
 * Features
 - Standard arithmetic operations
 - Interactive UI with sound and animations
@@ -12,10 +13,8 @@ Pymath is not your average calculator! This Python-based calculator, built with 
 - Secret Easter eggs:
     - Enter `1+1` for a surprise 🎵
     - Enter `666+666` to summon dark forces
- 
-      
-        ![Pymath Screenshot](images/show.png)
 
+![Pymath Screenshot](images/show.png)
 
 * Requirements
 Before running this project, you need to install the required dependencies. You can do this using `pip`:
