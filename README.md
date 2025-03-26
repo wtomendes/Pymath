@@ -4,6 +4,7 @@
 </p>
 
 * Pymath 🎲
+
 Pymath is not your average calculator! This Python-based calculator, built with Tkinter, comes with interactive features, sound effects, and some hidden surprises. 💀🎶
 
 * Features
