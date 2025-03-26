@@ -18,6 +18,11 @@ Before running this project, you need to install the required dependencies. You 
     git clone https://github.com/wtomendes/Pymath.git
 
     ```
+ 2. Install the required libraries:
+ ```bash
+pip install -r requirements.txt
+
+````   
 Now you can run the project!
 
 * About the Creator
